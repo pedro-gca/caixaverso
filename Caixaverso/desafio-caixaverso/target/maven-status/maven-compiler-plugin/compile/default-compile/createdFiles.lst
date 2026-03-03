@@ -1,0 +1,9 @@
+caixa\pedro\entity\User.class
+caixa\pedro\resource\ClienteResource.class
+caixa\pedro\entity\Cliente.class
+caixa\pedro\entity\Produto.class
+caixa\pedro\dto\SimulacaoRequest.class
+caixa\pedro\seed\DatabaseSeeder.class
+caixa\pedro\resource\ProdutosResource.class
+caixa\pedro\GreetingResource.class
+caixa\pedro\resource\UserResource.class
