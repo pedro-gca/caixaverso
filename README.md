@@ -38,3 +38,5 @@ mvnw clean test jacoco:report
 - GET /simulacoes - Listar todas as simulações
 - GET /simulacoes?clienteId={clienteId} - Obter simulações por cliente
 - POST /simulacoes - Criar nova simulação
+
+As chamadas para os endpoints poderão ser feitas ou via cURL ou via Postman
