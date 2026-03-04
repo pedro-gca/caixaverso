@@ -19,6 +19,9 @@ mvnw quarkus:dev
 - Após clonar, usar o comando
 ```
 mvnw test
+## Para gerar relatório de testes
+mvn clean test surefire-report:report -q
+## O reporte será gerado no seguinte caminho: Caixaverso\desafio-caixaverso\target\site\surefire-report.html
 ```
 
 - A aplicação estará disponível em http://localhost:8080
