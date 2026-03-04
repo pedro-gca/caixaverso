@@ -10,7 +10,7 @@ Aplicação para gerenciamento de simulações de produtos financeiros.
 - Clone o repositório
 - Entre na pasta, compile e entre no modo desenvolvimento do maven
 ```bash
-git clone
+git clone https://github.com/pedro-gca/caixaverso.git
 cd desafio-caixaverso
 mvnw quarkus:dev
 ```  
@@ -19,8 +19,6 @@ mvnw quarkus:dev
 - Após clonar, usar o comando
 ```
 mvnw test
-// para testar com cobertura
-mvnw clean test jacoco:report
 ```
 
 - A aplicação estará disponível em http://localhost:8080
