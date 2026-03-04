@@ -1,10 +1,5 @@
 C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\dto\SimulacaoRequest.java
-C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\entity\Cliente.java
 C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\entity\Produto.java
-C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\entity\User.java
-C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\GreetingResource.java
-C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\resource\ClienteResource.java
+C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\entity\Simulacao.java
 C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\resource\ProdutosResource.java
-C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\resource\UserResource.java
-C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\seed\DatabaseSeeder.java
-C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\seed\DataSeeder.java
+C:\Dev\Caixaverso\desafio-caixaverso\src\main\java\caixa\pedro\resource\SimulacaoResource.java

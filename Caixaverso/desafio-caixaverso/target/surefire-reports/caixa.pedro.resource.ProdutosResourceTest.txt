@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: caixa.pedro.resource.ProdutosResourceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.358 s -- in caixa.pedro.resource.ProdutosResourceTest
